@@ -1,0 +1,2 @@
+# HelloWorldpress
+Test wordpress installation
